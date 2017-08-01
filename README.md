@@ -246,12 +246,12 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [robotic.mobi](https://robotic.mobi/) :moneybag:
 
 ### Crowd Testing
-* [Ubertesters](https://ubertesters.com/)
-* [TestFairy](https://testfairy.com/)
-* [Beta Family](https://betafamily.com/)
-* [Applause](https://www.applause.com)
-* [Testarmy](http://testarmy.com/)
-* [crowdsourcedtesting](https://crowdsourcedtesting.com/)
+* [Ubertesters](https://ubertesters.com/) :moneybag:
+* [TestFairy](https://testfairy.com/) :moneybag:
+* [Beta Family](https://betafamily.com/) :moneybag:
+* [Applause](https://www.applause.com) :moneybag:
+* [Testarmy](http://testarmy.com/) :moneybag:
+* [crowdsourcedtesting](https://crowdsourcedtesting.com/) :moneybag:
 * [Comparing 11 Mobile Beta Testing Tools](https://dzone.com/articles/comparing-11-mobile-beta-testing-tools)
 
 # TO DO:
@@ -512,8 +512,3 @@ BlockCanaryEx
 iOS
 
 Finding iOS Memory Leaks with Xcode’s Instruments 
-
- - Paid services, tools, etc
-Tags: Cry
-
-
