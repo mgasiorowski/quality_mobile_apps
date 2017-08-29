@@ -244,6 +244,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [klint](https://github.com/shyiko/ktlint)
 * [SonarLint](http://www.sonarlint.org/intellij/)
 * [detekt](https://github.com/arturbosch/detekt)
+* [Dependency Injection usage Checks](https://github.com/groupon/dependency-injection-checks)
 
 ### iOS
 * [SwiftLint](https://github.com/realm/SwiftLint)
@@ -358,6 +359,9 @@ To edit I use [Xmind](http://www.xmind.net/)
 #### Android
 * [Hugo](https://github.com/JakeWharton/hugo)
 
+#### iOS
+* [Continuous Performance Testing of an iOS Apps using XCTest](http://shashikantjagtap.net/continuous-performance-testing-ios-apps-using-xctest/)
+
 ### Other
 
 #### Network Usage
@@ -391,6 +395,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### Tools
 * [Augmented Traffic Control](https://github.com/facebook/augmented-traffic-control)
 * [Network Link Conditioner](http://nshipster.com/network-link-conditioner/)
+* [Cellular Data Network Simulator](https://github.com/Polidea/Cellular-Data-Network-Simulator)
 
 ## Automated checking
 
@@ -419,6 +424,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 #### Android
 * [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/)
     * [Cappuccino](https://github.com/autonomousapps/Cappuccino)
+    * [Barista](https://github.com/SchibstedSpain/Barista)
 * [Robotium](https://github.com/RobotiumTech/robotium)
 * [UI Automator](https://developer.android.com/topic/libraries/testing-support-library/index.html#UIAutomator)
 * [Selendroid](http://selendroid.io/)
@@ -426,6 +432,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Mobly](https://github.com/google/mobly)
 * [AndroidViewClient](https://github.com/dtmilano/AndroidViewClient)
 * [monkey](https://developer.android.com/studio/test/monkeyrunner/index.html)
+* [DroidBot](https://github.com/honeynet/droidbot)
 
 #### iOS
 * [XCTest](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)
