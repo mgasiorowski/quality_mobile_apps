@@ -175,6 +175,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### Android
 * [screenshot-tests-for-android](http://facebook.github.io/screenshot-tests-for-android/)
 * [Designer Tools](https://play.google.com/store/apps/details?id=com.scheffsblend.designertools)
+* [nakal](https://github.com/saikrishna321/nakal_java)
 
 ### iOS
 * [FBSnapshotTestCase](https://github.com/facebook/ios-snapshot-test-case)
@@ -209,7 +210,8 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [The 2016 Android Developer Toolbox](https://realm.io/news/mobilization-gautier-mechling-the-2016-android-developer-toolbox/)
 * [The complete Checklist for Mobile Testing | David Tzemach](http://www.machtested.com/2016/07/mobile-testing-checklist-david-tzemach.html)
 * [Mobile Testing of Location-Powered Android Apps](http://blog.perfectomobile.com/mobile-application-testing/continuous-mobile-testing-of-location-powered-apps-with-perfecto/)
-* [Automated Performance Testing Codelab](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html)
+* [Automated Performance Testing Codelab - Android](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html)
+* [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times)
 
 ## Books
 * [Hands-On Mobile App Testing By Daniel Knott](http://www.informit.com/store/hands-on-mobile-app-testing-a-guide-for-mobile-testers-9780134191713)
@@ -408,11 +410,19 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### iOS
 * [XCTest](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/04-writing_tests.html)
+* Network Stubbing
+  * [Mockingjay](https://github.com/kylef/Mockingjay)
+  * [Hippolyte](https://github.com/JanGorman/Hippolyte)
+  * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
 
 ### Coverage
 
 #### Android
 * [JacocoEverywhere](https://github.com/paveldudka/JacocoEverywhere)
+
+#### iOS
+* [slather](https://github.com/SlatherOrg/slather)
+  * [Continuous iOS Code Coverage With Jenkins and Slather](https://pspdfkit.com/blog/2016/continuous-ios-code-coverage-with-jenkins-and-slather/)
 
 ### Techniques
 * [Test Driven Development (TDD)](https://www.agilealliance.org/glossary/tdd/)
@@ -457,6 +467,9 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Bluepill](https://github.com/linkedin/bluepill)
     * [Open Sourcing Bluepill: Run iOS Tests in Multiple Simulators](https://engineering.linkedin.com/blog/2017/01/open-sourcing-bluepill--run-ios-tests-in-multiple-simulators)
 * [pxctest](https://github.com/plu/pxctest)
+* Network Stubbing
+  * [Swifter](https://github.com/httpswift/swifter)
+  * [SBTUITestTunnel](https://github.com/Subito-it/SBTUITestTunnel)
 
 ##### Multiplatfom
 * [App Inspector](https://macacajs.github.io/app-inspector/)
@@ -483,6 +496,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### Android
 * [STF](https://openstf.io/)
+  * [Android Device Farm at Mercari](https://medium.com/mercari-engineering/android-device-farm-at-mercari-3197237df0e1)
 * [Introducing “gnirehtet”, a reverse tethering tool for Android](https://medium.com/genymobile/gnirehtet-reverse-tethering-android-2afacdbdaec7)
 
 ### Other
