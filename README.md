@@ -80,8 +80,8 @@ Table of Contents
       * [Automated checking](#automated-checking)
          * [Unit test](#unit-test)
             * [Android](#android-16)
-         * [iOS](#ios-12)
-            * [Network Stubbing](#network-stubbing)
+            * [iOS](#ios-12)
+               * [Network Stubbing](#network-stubbing)
          * [Coverage](#coverage)
             * [Android](#android-17)
             * [iOS](#ios-13)
@@ -413,10 +413,10 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [JUnit](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html)
 * [RoboSpock](http://robospock.github.io/RoboSpock/)
 
-### iOS
+#### iOS
 * [XCTest](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/04-writing_tests.html)
 
-#### Network Stubbing
+##### Network Stubbing
   * [Mockingjay](https://github.com/kylef/Mockingjay)
   * [Hippolyte](https://github.com/JanGorman/Hippolyte)
   * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
