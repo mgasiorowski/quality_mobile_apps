@@ -120,6 +120,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### Android
 * [Accessibility - docs](https://developer.android.com/guide/topics/ui/accessibility/index.html)
 * [Accessibility Developer Checklist](https://developer.android.com/guide/topics/ui/accessibility/checklist.html)
+* [Android Accessibility Tutorial: Getting Started](https://www.raywenderlich.com/182100/android-accessibility-tutorial-getting-started)
 
 #### Tools
 * [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)
@@ -142,6 +143,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### Android
 * [Stetho](http://facebook.github.io/stetho/)
 * [PID Cat](https://github.com/JakeWharton/pidcat)
+* [HyperLog Android](https://github.com/hypertrack/hyperlog-android)
 
 ## Reverse engineering
 
@@ -217,6 +219,9 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Mobile Testing of Location-Powered Android Apps](http://blog.perfectomobile.com/mobile-application-testing/continuous-mobile-testing-of-location-powered-apps-with-perfecto/)
 * [Automated Performance Testing Codelab - Android](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html)
 * [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times)
+* [Applying the SFDPOT heuristic to mobile testing](http://karennicolejohnson.com/2012/05/applying-the-sfdpot-heuristic-to-mobile-testing/)
+* [Mobile App Test Coverage Model : LONG FUN CUP](https://testingideas.wordpress.com/2014/08/17/mobile-app-test-coverage-model-long-fun-cup/)
+* [Ultimate Android Reference](https://github.com/aritraroy/UltimateAndroidReference)
 
 ## Books
 * [Hands-On Mobile App Testing By Daniel Knott](http://www.informit.com/store/hands-on-mobile-app-testing-a-guide-for-mobile-testers-9780134191713)
@@ -237,6 +242,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### iOS
 * [Hacking iOS Applications](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 * [How to get started with mobile penetration testing for iOS](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-ios)
+* [Introspy-iOS](https://github.com/iSECPartners/Introspy-iOS)
 
 ## Static analysis
 
