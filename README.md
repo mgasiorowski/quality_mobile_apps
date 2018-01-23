@@ -222,6 +222,8 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Applying the SFDPOT heuristic to mobile testing](http://karennicolejohnson.com/2012/05/applying-the-sfdpot-heuristic-to-mobile-testing/)
 * [Mobile App Test Coverage Model : LONG FUN CUP](https://testingideas.wordpress.com/2014/08/17/mobile-app-test-coverage-model-long-fun-cup/)
 * [Ultimate Android Reference](https://github.com/aritraroy/UltimateAndroidReference)
+* [Android UI Automation: Part 1, Building Trust](https://slack.engineering/android-ui-automation-part-1-building-trust-de3deb1c5995)
+* [Android UI Automation: Part 2, Making It Easy](https://slack.engineering/android-ui-automation-part-2-making-it-easy-57335c7379cc)
 
 ## Books
 * [Hands-On Mobile App Testing By Daniel Knott](http://www.informit.com/store/hands-on-mobile-app-testing-a-guide-for-mobile-testers-9780134191713)
@@ -358,6 +360,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Tiny Dancer](https://github.com/friendlyrobotnyc/TinyDancer)
 * [FrameMetrics](https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8550413c1c#.jzhowg88o)
 * [Testing Android UI Performance](http://dtmilano.blogspot.com/2017/04/testing-android-ui-performance.html)
+* [GodEye](https://github.com/zixun/GodEye)
 
 #### iOS
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector)
@@ -514,6 +517,8 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### Other
 * [DeviceNanny](https://github.com/hudl/DeviceNanny)
+* [Building a Device Lab Slides & Links](http://larahogan.me/devicelab/slides/)
+* [Cambrionix - proffesional USB hubs](https://cambrionix.com/)
 
 ## Leaks
 
@@ -524,3 +529,4 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### iOS
 * [Finding iOS Memory Leaks with Xcode’s Instruments](https://spin.atomicobject.com/2016/01/25/ios-memory-leak-xcode)
+* [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker)
