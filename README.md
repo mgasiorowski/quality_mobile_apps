@@ -181,6 +181,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### Android
 * [screenshot-tests-for-android](http://facebook.github.io/screenshot-tests-for-android/)
+    * [Shot](https://github.com/Karumi/Shot)
 * [Designer Tools](https://play.google.com/store/apps/details?id=com.scheffsblend.designertools)
 * [nakal](https://github.com/saikrishna321/nakal_java)
 
@@ -224,6 +225,9 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Ultimate Android Reference](https://github.com/aritraroy/UltimateAndroidReference)
 * [Android UI Automation: Part 1, Building Trust](https://slack.engineering/android-ui-automation-part-1-building-trust-de3deb1c5995)
 * [Android UI Automation: Part 2, Making It Easy](https://slack.engineering/android-ui-automation-part-2-making-it-easy-57335c7379cc)
+* [Kotlin: Using (Test) Robots to make Espresso](https://proandroiddev.com/kotlin-using-test-robots-to-make-espresso-8cec2d746973)
+* [Testing in-app purchases on Android](https://medium.com/bleeding-edge/testing-in-app-purchases-on-android-a6de74f78878)
+* [Using Gradle build cache with Kotlin](https://blog.jetbrains.com/kotlin/2018/02/using-gradle-build-cache-with-kotlin/)
 
 ## Books
 * [Hands-On Mobile App Testing By Daniel Knott](http://www.informit.com/store/hands-on-mobile-app-testing-a-guide-for-mobile-testers-9780134191713)
@@ -458,6 +462,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [AndroidViewClient](https://github.com/dtmilano/AndroidViewClient)
 * [monkey](https://developer.android.com/studio/test/monkeyrunner/index.html)
 * [DroidBot](https://github.com/honeynet/droidbot)
+* [Detox](https://github.com/wix/detox)
 
 #### iOS
 * [XCTest](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)
