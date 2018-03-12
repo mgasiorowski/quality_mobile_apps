@@ -159,6 +159,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### Android
 * [Mobizen](https://www.mobizen.com/)
 * [Vysor](https://www.vysor.io/) :moneybag:
+* [scrcpy](https://github.com/Genymobile/scrcpy)
 
 ### iOS
 * QuickTime
@@ -225,12 +226,19 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Add Superpowers to your Appium-Android tests](https://badootech.badoo.com/add-superpowers-to-your-appium-android-tests-f408ac2f1b59)
 * [Performance Testing of Android Apps](https://appiumpro.com/editions/5)
 * [Running arbitrary ADB commands via Appium](https://appiumpro.com/editions/3)
+* [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
+* [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
 
 ### iOS
 * [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times)
 * [Testing iOS App Upgrades](https://appiumpro.com/editions/6)
 * [5 Tools for Uploading iOS apps to iTunes Connect](http://shashikantjagtap.net/5-tools-uploading-ios-apps-itunes-connect/)
 * [Using unit tests to identify & avoid memory leaks in Swift](https://medium.com/@johnsundell/using-unit-tests-to-identify-avoid-memory-leaks-in-swift-607c97465b62)
+* [Xcode UI Tests with Embassy and Succulent](https://medium.com/@timefrancesco/xcode-ui-tests-with-embassy-and-succulent-808e068ee4e8)
+* [UI Testing Cheat Sheet and Examples](http://masilotti.com/ui-testing-cheat-sheet/)
+* [Getting started with XCUITest framework for testing iOS apps.](https://blog.novoda.com/getting-started-with-xcuitest-framework-for-testing-ios-apps/)
+* [New XCUITest Features With Xcode 9: Hands-on Exploration](https://dzone.com/articles/new-xcuitest-features-with-xcode-9-hands-on-explor)
+* [User Interface Testing - Apple Docs](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/09-ui_testing.html)
 
 ### React Native
 * [How to Apply UI Test Automation in React Native Apps?](https://www.polidea.com/blog/how-to-apply-ui-test-automation-in-react-native-apps/)
@@ -421,14 +429,14 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### Proxy
 * [Charles Proxy](https://www.charlesproxy.com/) :moneybag:
-    * [Bandwidth Throttle](https://www.charlesproxy.com/documentation/proxying/throttling/)
-    * [Rewrite Tool](https://www.charlesproxy.com/documentation/tools/rewrite/)
-    * [Breakpoints Tool](https://www.charlesproxy.com/documentation/proxying/breakpoints/)
-    * [Map Remote Tool](https://www.charlesproxy.com/documentation/tools/map-remote/)
-    * [Map Local Tool](https://www.charlesproxy.com/documentation/tools/map-local/)
-    * [Trusting custom root certificates on ios 10.3](http://www.neglectedpotential.com/2017/04/trusting-custom-root-certificates-on-ios-10-3/)
-    * [How to get charles proxy work with Android 7 nougat?](https://stackoverflow.com/questions/39215229/how-to-get-charles-proxy-work-with-android-7-nougat)
-        * [Add Securiy Exception to APK](https://github.com/levyitay/AddSecurityExceptionAndroid)
+* [Bandwidth Throttle](https://www.charlesproxy.com/documentation/proxying/throttling/)
+* [Rewrite Tool](https://www.charlesproxy.com/documentation/tools/rewrite/)
+* [Breakpoints Tool](https://www.charlesproxy.com/documentation/proxying/breakpoints/)
+* [Map Remote Tool](https://www.charlesproxy.com/documentation/tools/map-remote/)
+* [Map Local Tool](https://www.charlesproxy.com/documentation/tools/map-local/)
+* [Trusting custom root certificates on ios 10.3](http://www.neglectedpotential.com/2017/04/trusting-custom-root-certificates-on-ios-10-3/)
+* [How to get charles proxy work with Android 7 nougat?](https://stackoverflow.com/questions/39215229/how-to-get-charles-proxy-work-with-android-7-nougat)
+    * [Add Securiy Exception to APK](https://github.com/levyitay/AddSecurityExceptionAndroid)
 * [Burp](https://portswigger.net/burp/)
     * [How to Monitor Mobile App Traffic With Sniffers](https://stanfy.com/blog/monitor-mobile-app-traffic-with-sniffers/)
 * [Fiddler](http://www.telerik.com/fiddler)
@@ -451,9 +459,10 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [XCTest](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/04-writing_tests.html)
 
 ##### Network Stubbing
-  * [Mockingjay](https://github.com/kylef/Mockingjay)
-  * [Hippolyte](https://github.com/JanGorman/Hippolyte)
-  * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
+* [Mockingjay](https://github.com/kylef/Mockingjay)
+* [Hippolyte](https://github.com/JanGorman/Hippolyte)
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
+* [Succulent](https://github.com/cactuslab/Succulent)
 
 ### Coverage
 
