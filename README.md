@@ -228,6 +228,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Running arbitrary ADB commands via Appium](https://appiumpro.com/editions/3)
 * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
 * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
+* [Android CI with kubernetes](https://medium.com/@Malinskiy/android-ci-with-kubernetes-684713a83eec)
 
 ### iOS
 * [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times)
@@ -513,6 +514,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Spoon](https://github.com/square/spoon)
 * [Composer](https://github.com/gojuno/composer)
 * [Swarmer](https://github.com/gojuno/swarmer)
+* [Fork tools](https://github.com/agoda-com/fork)
 
 #### iOS
 * [Bluepill](https://github.com/linkedin/bluepill)
@@ -550,6 +552,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [STF](https://openstf.io/)
   * [Android Device Farm at Mercari](https://medium.com/mercari-engineering/android-device-farm-at-mercari-3197237df0e1)
 * [Introducing “gnirehtet”, a reverse tethering tool for Android](https://medium.com/genymobile/gnirehtet-reverse-tethering-android-2afacdbdaec7)
+* [android-farm](https://github.com/agoda-com/android-farm)
 
 ### Other
 * [DeviceNanny](https://github.com/hudl/DeviceNanny)
