@@ -138,6 +138,10 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Bee](https://github.com/orhanobut/bee)
 * [U+2020](https://github.com/JakeWharton/u2020)
 * [Under the Hood - Android App Debug View Library](https://github.com/patrickfav/under-the-hood)
+* [Debug artist](https://github.com/BaristaVentures/debug-artist)
+
+### iOS
+* [Yoshi](https://github.com/prolificinteractive/Yoshi)
 
 ## Debug
 
@@ -187,10 +191,12 @@ To edit I use [Xmind](http://www.xmind.net/)
     * [Shot](https://github.com/Karumi/Shot)
 * [Designer Tools](https://play.google.com/store/apps/details?id=com.scheffsblend.designertools)
 * [nakal](https://github.com/saikrishna321/nakal_java)
+* [Hyperion - App Inspection Tool](https://github.com/willowtreeapps/Hyperion-Android)
 
 ### iOS
 * [FBSnapshotTestCase](https://github.com/facebook/ios-snapshot-test-case)
 * [Flawless App](https://flawlessapp.io/) :moneybag:
+* [Hyperion - In App Design Review Tool](https://github.com/willowtreeapps/Hyperion-iOS)
 
 ## Stress testing
 
@@ -392,7 +398,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Tiny Dancer](https://github.com/friendlyrobotnyc/TinyDancer)
 * [FrameMetrics](https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8550413c1c#.jzhowg88o)
 * [Testing Android UI Performance](http://dtmilano.blogspot.com/2017/04/testing-android-ui-performance.html)
-* [GodEye](https://github.com/zixun/GodEye)
+* [AndroidGodEye](https://github.com/Kyson/AndroidGodEye)
 
 #### iOS
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector)
