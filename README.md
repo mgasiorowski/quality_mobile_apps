@@ -237,6 +237,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
 * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
 * [Android CI with kubernetes](https://medium.com/@Malinskiy/android-ci-with-kubernetes-684713a83eec)
+* [Taming the UI test monster](https://medium.com/stepstone-tech/taming-the-ui-test-monster-26c017848ae0)
 
 ### iOS
 * [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times)
@@ -335,6 +336,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Splunk](https://mint.splunk.com/) :moneybag:
 * [Appsee](https://www.appsee.com/) :moneybag:
 * [Appachhi](https://appachhi.com/) :moneybag:
+* [AppSpector](https://appspector.com/) :moneybag:
 
 ### Cloud Testing
 * [Monkop](https://appachhi.com/) :moneybag:
@@ -438,11 +440,11 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### Proxy
 * [Charles Proxy](https://www.charlesproxy.com/) :moneybag:
-* [Bandwidth Throttle](https://www.charlesproxy.com/documentation/proxying/throttling/)
-* [Rewrite Tool](https://www.charlesproxy.com/documentation/tools/rewrite/)
-* [Breakpoints Tool](https://www.charlesproxy.com/documentation/proxying/breakpoints/)
-* [Map Remote Tool](https://www.charlesproxy.com/documentation/tools/map-remote/)
-* [Map Local Tool](https://www.charlesproxy.com/documentation/tools/map-local/)
+   * [Bandwidth Throttle](https://www.charlesproxy.com/documentation/proxying/throttling/)
+   * [Rewrite Tool](https://www.charlesproxy.com/documentation/tools/rewrite/)
+   * [Breakpoints Tool](https://www.charlesproxy.com/documentation/proxying/breakpoints/)
+   * [Map Remote Tool](https://www.charlesproxy.com/documentation/tools/map-remote/)
+   * [Map Local Tool](https://www.charlesproxy.com/documentation/tools/map-local/)
 * [Trusting custom root certificates on ios 10.3](http://www.neglectedpotential.com/2017/04/trusting-custom-root-certificates-on-ios-10-3/)
 * [How to get charles proxy work with Android 7 nougat?](https://stackoverflow.com/questions/39215229/how-to-get-charles-proxy-work-with-android-7-nougat)
     * [Add Securiy Exception to APK](https://github.com/levyitay/AddSecurityExceptionAndroid)
@@ -494,6 +496,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/)
     * [Cappuccino](https://github.com/autonomousapps/Cappuccino)
     * [Barista](https://github.com/SchibstedSpain/Barista)
+    * [kappuccino](https://github.com/concretesolutions/kappuccino)
 * [Robotium](https://github.com/RobotiumTech/robotium)
 * [UI Automator](https://developer.android.com/topic/libraries/testing-support-library/index.html#UIAutomator)
 * [Selendroid](http://selendroid.io/)
@@ -525,6 +528,8 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Composer](https://github.com/gojuno/composer)
 * [Swarmer](https://github.com/gojuno/swarmer)
 * [Fork tools](https://github.com/agoda-com/fork)
+* [Awaitility](https://github.com/awaitility/awaitility)
+* [AndroidTestXRunner](https://github.com/stepstone-tech/AndroidTestXRunner)
 
 #### iOS
 * [Bluepill](https://github.com/linkedin/bluepill)
