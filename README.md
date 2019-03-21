@@ -146,6 +146,8 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### iOS
 * [Yoshi](https://github.com/prolificinteractive/Yoshi)
+* [FLEX](https://github.com/Flipboard/FLEX)
+* [Tweaks](https://github.com/facebook/Tweaks)
 
 ## Debug
 
@@ -180,6 +182,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### iOS
 * [Xcode simulator](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html)
 * [simctl: Control iOS Simulators from Command Line](http://shashikantjagtap.net/simctl-control-ios-simulators-command-line/?utm_content=buffer5c6da)
+* [Sherlock](https://sherlock.inspiredcode.io/) :moneybag:
 
 ## Manual testing
 * Eploratory testing - sprints
@@ -497,6 +500,7 @@ To edit I use [Xmind](http://www.xmind.net/)
     * [Cappuccino](https://github.com/autonomousapps/Cappuccino)
     * [Barista](https://github.com/SchibstedSpain/Barista)
     * [kappuccino](https://github.com/concretesolutions/kappuccino)
+    * [Green Coffee](https://github.com/mauriciotogneri/green-coffee)
 * [Robotium](https://github.com/RobotiumTech/robotium)
 * [UI Automator](https://developer.android.com/topic/libraries/testing-support-library/index.html#UIAutomator)
 * [Selendroid](http://selendroid.io/)
