@@ -143,11 +143,14 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [U+2020](https://github.com/JakeWharton/u2020)
 * [Under the Hood - Android App Debug View Library](https://github.com/patrickfav/under-the-hood)
 * [Debug artist](https://github.com/BaristaVentures/debug-artist)
+* [Cockpit](https://github.com/Polidea/Cockpit)
+* [Hyperion](https://github.com/willowtreeapps/Hyperion-Android)
 
 ### iOS
 * [Yoshi](https://github.com/prolificinteractive/Yoshi)
 * [FLEX](https://github.com/Flipboard/FLEX)
 * [Tweaks](https://github.com/facebook/Tweaks)
+* [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug)
 
 ## Debug
 
@@ -161,6 +164,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### Android
 * [Apktool](https://ibotpeaches.github.io/Apktool/)
 * [JADX](https://github.com/skylot/jadx)
+* [smali](https://github.com/JesusFreke/smali)
 
 ## Screen mirroring
 
@@ -241,6 +245,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
 * [Android CI with kubernetes](https://medium.com/@Malinskiy/android-ci-with-kubernetes-684713a83eec)
 * [Taming the UI test monster](https://medium.com/stepstone-tech/taming-the-ui-test-monster-26c017848ae0)
+* [Android testing with Espresso’s Idling Resources and testing fidelity](https://medium.com/androiddevelopers/android-testing-with-espressos-idling-resources-and-testing-fidelity-8b8647ed57f4)
 
 ### iOS
 * [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times)
@@ -275,22 +280,27 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Hands-On Mobile App Testing By Daniel Knott](http://www.informit.com/store/hands-on-mobile-app-testing-a-guide-for-mobile-testers-9780134191713)
 
 ## Security
-* [Mobile Security Wiki](https://mobilesecuritywiki.com/)
 
-### OWASP
-* [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
-* [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 
 ### Android
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [Fridump](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [How to get started with mobile penetration testing for Android](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-android)
+* [drozer](https://github.com/mwrlabs/drozer)
+* [androguard](https://github.com/androguard/androguard)
 
 ### iOS
 * [Hacking iOS Applications](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 * [How to get started with mobile penetration testing for iOS](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-ios)
 * [Introspy-iOS](https://github.com/iSECPartners/Introspy-iOS)
+
+### Multiplatform
+* OWSAP
+   * [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
+   * [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
+* [Mobile Security Wiki](https://mobilesecuritywiki.com/)
+* [Mobile Application Penetration Testing Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ## Static analysis
 
@@ -345,6 +355,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Monkop](https://appachhi.com/) :moneybag:
 * [NimbleDroid](https://nimbledroid.com) :moneybag:
 * [Appdiff](https://www.appdiff.com/) :moneybag:
+* [waldo](https://www.waldo.io/) :moneybag:
 
 ### Device Farm
 * [Kobiton (free beta)](https://kobiton.com/)
@@ -354,6 +365,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Nativetap.io](https://nativetap.io/) :moneybag:
 * [AWS Device Farm](https://aws.amazon.com/device-farm/) :moneybag:
 * [Google Firebase](https://firebase.google.com/docs/test-lab/) :moneybag:
+   * [Flank](https://github.com/TestArmada/flank)
 * [Xamarin Test Cloud](https://www.xamarin.com/test-cloud) :moneybag:
 * [Experitest](https://experitest.com/) :moneybag:
 * [Samsung Remote Test Lab](http://developer.samsung.com/rtlLanding.do)
@@ -454,6 +466,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Burp](https://portswigger.net/burp/)
     * [How to Monitor Mobile App Traffic With Sniffers](https://stanfy.com/blog/monitor-mobile-app-traffic-with-sniffers/)
 * [Fiddler](http://www.telerik.com/fiddler)
+* [Proxyman](https://proxyman.io/) :moneybag:
 
 ### Tools
 * [Augmented Traffic Control](https://github.com/facebook/augmented-traffic-control)
@@ -510,6 +523,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [monkey](https://developer.android.com/studio/test/monkeyrunner/index.html)
 * [DroidBot](https://github.com/honeynet/droidbot)
 * [Detox](https://github.com/wix/detox)
+   * [Detox Helper for CodeceptJS](https://github.com/Codeception/detox-helper)
 
 #### iOS
 * [XCTest](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)
@@ -534,6 +548,8 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Fork tools](https://github.com/agoda-com/fork)
 * [Awaitility](https://github.com/awaitility/awaitility)
 * [AndroidTestXRunner](https://github.com/stepstone-tech/AndroidTestXRunner)
+* [OkHttp Idling Resource](https://github.com/JakeWharton/okhttp-idling-resource)
+* [RxIdler](https://github.com/square/RxIdler)
 
 #### iOS
 * [Bluepill](https://github.com/linkedin/bluepill)
@@ -564,6 +580,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Android Testing with Kotlin](https://fernandocejas.com/2017/02/03/android-testing-with-kotlin/)
 * [Using Kotlin to test Android Applications](https://stories.nevercode.io/using-kotlin-to-test-android-applications-6a8549dc411a)
 * [Running Android UI Tests](https://www.reddit.com/r/androiddev/comments/622a9u/running_android_ui_tests_collect_logs_record_a)
+* [Test apps on Android](https://developer.android.com/training/testing)
 
 ## Test farm
 
