@@ -284,7 +284,6 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### Android
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
-* [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [Fridump](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [How to get started with mobile penetration testing for Android](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-android)
 * [drozer](https://github.com/mwrlabs/drozer)
@@ -296,8 +295,11 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Introspy-iOS](https://github.com/iSECPartners/Introspy-iOS)
 
 ### Multiplatform
+* [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * OWSAP
    * [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
+      * [OWASP Mobile AppSec Verification Standard (MASVS) v1.1.4 4 - notes](https://github.com/mgasiorowski/quality_mobile_apps_mindmap/blob/master/documents/owasp_mobile_security_project/OWASP_Mobile_AppSec_Verification_Standard.png)
+      * [OWASP Mobile Security Testing Guide (MSTG) v1.1.3 - notes](https://github.com/mgasiorowski/quality_mobile_apps_mindmap/blob/master/documents/owasp_mobile_security_project/OWASP_Mobile_Security_Testing_Guide.png)
    * [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 * [Mobile Security Wiki](https://mobilesecuritywiki.com/)
 * [Mobile Application Penetration Testing Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
