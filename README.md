@@ -594,7 +594,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### Other
 * [DeviceNanny](https://github.com/hudl/DeviceNanny)
-* [Building a Device Lab Slides & Links](http://larahogan.me/devicelab/slides/)
+* [Building a Device Lab Slides & Links](https://larahogan.me/devicelab/)
 * [Cambrionix - proffesional USB hubs](https://cambrionix.com/)
 
 ## Leaks
