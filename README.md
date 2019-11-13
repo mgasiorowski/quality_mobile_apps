@@ -335,7 +335,6 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Fill RAM memory](https://play.google.com/store/apps/details?id=me.empirical.android.application.fillmemory&hl=pl)
 * [Android Toollbelt](https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt&hl=pl)
     * [Android Developer Toolbelt](https://github.com/T-Spoon/Android-Developer-Toolbelt)
-* [MemoryPump](https://play.google.com/store/apps/details?id=com.fabsimilian.memorypump&rdid=com.fabsimilian.memorypump)
 
 ## Web Services
 
@@ -511,7 +510,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### e2e
 
 #### Android
-* [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/)
+* [Espresso](https://developer.android.com/training/testing/espresso/)
     * [Cappuccino](https://github.com/autonomousapps/Cappuccino)
     * [Barista](https://github.com/SchibstedSpain/Barista)
     * [kappuccino](https://github.com/concretesolutions/kappuccino)
