@@ -1,9 +1,9 @@
-# Quality in mobile apps mindmap
+# Quality in mobile apps
 
 Table of Contents
 =================
 
-   * [Quality in mobile apps mindmap](#quality-in-mobile-apps-mindmap)
+   * [Quality in mobile apps](#quality-in-mobile-apps)
    * [Table of Contents](#table-of-contents)
       * [Legend](#legend)
       * [Accessibility](#accessibility)
@@ -112,7 +112,6 @@ Table of Contents
          * [iOS](#ios-18)
       * [Other](#other-3)
          * [Android](#android-26)
-      * [Mindmap](#mindmap)
    * [Contributing](#contributing)
    * [License](#license)
 
@@ -299,8 +298,8 @@ Table of Contents
 * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * OWSAP
    * [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
-      * [OWASP Mobile AppSec Verification Standard (MASVS) v1.1.4 4 - notes](https://github.com/mgasiorowski/quality_mobile_apps_mindmap/blob/master/documents/owasp_mobile_security_project/OWASP_Mobile_AppSec_Verification_Standard.png)
-      * [OWASP Mobile Security Testing Guide (MSTG) v1.1.3 - notes](https://github.com/mgasiorowski/quality_mobile_apps_mindmap/blob/master/documents/owasp_mobile_security_project/OWASP_Mobile_Security_Testing_Guide.png)
+      * [OWASP Mobile AppSec Verification Standard (MASVS) v1.1.4 4 - notes](https://github.com/mgasiorowski/quality_mobile_apps/blob/master/documents/owasp_mobile_security_project/OWASP_Mobile_AppSec_Verification_Standard.png)
+      * [OWASP Mobile Security Testing Guide (MSTG) v1.1.3 - notes](https://github.com/mgasiorowski/quality_mobile_apps/blob/master/documents/owasp_mobile_security_project/OWASP_Mobile_Security_Testing_Guide.png)
    * [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 * [Mobile Security Wiki](https://mobilesecuritywiki.com/)
 * [Mobile Application Penetration Testing Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
@@ -623,11 +622,6 @@ Table of Contents
 ### Android
 * [ADB Event Mirror](https://github.com/JakeWharton/adb-event-mirror)
 
-## Mindmap
-![Quality in mobile apps mindmap](images/quality_mobile_apps_mindmap.png)
-
-To edit I use [Xmind](http://www.xmind.net/)
-
 # Contributing
 
 1. Fork it!
@@ -641,7 +635,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ```
 MIT License
 
-Copyright (c) 2018 Maciej Gąsiorowski
+Copyright (c) 2020 Maciej Gąsiorowski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
