@@ -5,7 +5,6 @@ Table of Contents
 
    * [Quality in mobile apps mindmap](#quality-in-mobile-apps-mindmap)
    * [Table of Contents](#table-of-contents)
-      * [Mindmap](#mindmap)
       * [Legend](#legend)
       * [Accessibility](#accessibility)
          * [Android](#android)
@@ -38,13 +37,13 @@ Table of Contents
          * [All](#all)
       * [Books](#books)
       * [Security](#security)
-         * [OWASP](#owasp)
          * [Android](#android-9)
          * [iOS](#ios-7)
+         * [Multiplatform](#multiplatform)
       * [Static analysis](#static-analysis)
          * [Android](#android-10)
          * [iOS](#ios-8)
-         * [Multiplatform](#multiplatform)
+         * [Multiplatform](#multiplatform-1)
       * [App state restoring](#app-state-restoring)
          * [Android](#android-11)
             * [Fill RAM](#fill-ram)
@@ -70,6 +69,8 @@ Table of Contents
          * [Duration of the method](#duration-of-the-method)
             * [Android](#android-16)
             * [iOS](#ios-13)
+         * [Binary size](#binary-size)
+            * [Android](#android-17)
          * [Other](#other)
             * [Network Usage](#network-usage)
             * [Time between multiple independent events](#time-between-multiple-independent-events)
@@ -82,40 +83,38 @@ Table of Contents
          * [Tools](#tools-1)
       * [Automated checking](#automated-checking)
          * [Unit test](#unit-test)
-            * [Android](#android-17)
+            * [Android](#android-18)
             * [iOS](#ios-14)
                * [Network Stubbing](#network-stubbing)
          * [Coverage](#coverage)
-            * [Android](#android-18)
+            * [Android](#android-19)
             * [iOS](#ios-15)
          * [Techniques](#techniques)
          * [e2e](#e2e)
-            * [Android](#android-19)
-            * [iOS](#ios-16)
-         * [Multiplatform](#multiplatform-1)
-         * [Helpers](#helpers)
             * [Android](#android-20)
+            * [iOS](#ios-16)
+         * [Multiplatform](#multiplatform-2)
+         * [Helpers](#helpers)
+            * [Android](#android-21)
             * [iOS](#ios-17)
                * [Network Stubbing](#network-stubbing-1)
                * [Multiplatfom](#multiplatfom)
          * [Pattern](#pattern)
             * [Robot](#robot)
          * [Other](#other-1)
-            * [Android](#android-21)
-      * [Android](#android-22)
+            * [Android](#android-22)
+      * [Android](#android-23)
       * [Test farm](#test-farm)
-         * [Android](#android-23)
+         * [Android](#android-24)
          * [Other](#other-2)
       * [Leaks](#leaks)
-         * [Android](#android-24)
+         * [Android](#android-25)
          * [iOS](#ios-18)
+      * [Other](#other-3)
+         * [Android](#android-26)
+      * [Mindmap](#mindmap)
    * [Contributing](#contributing)
    * [License](#license)
-
-## Mindmap
-![Quality in mobile apps mindmap](images/quality_mobile_apps_mindmap.png)
-
-To edit I use [Xmind](http://www.xmind.net/)
 
 ## Legend
 :moneybag: - Paid services, tools, etc
@@ -217,7 +216,6 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### iOS
 * [ui-auto-monkey](https://github.com/jonathanpenn/ui-auto-monkey) - DEPRECATED
-* [Chaos Testing on iOS](https://github.com/jonathanpenn/ui-auto-monkey)
 * [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey)
 * [SwiftMonkey](https://github.com/zalando/SwiftMonkey)
 
@@ -231,7 +229,6 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Useful tips to inspect your Android app — Part 1](https://medium.com/freenet-engineering/useful-tips-to-inspect-your-android-app-part-1-34415239e91a#.t59kbicht)
 * [The 2016 Android Developer Toolbox](https://realm.io/news/mobilization-gautier-mechling-the-2016-android-developer-toolbox/)
 * [Mobile Testing of Location-Powered Android Apps](http://blog.perfectomobile.com/mobile-application-testing/continuous-mobile-testing-of-location-powered-apps-with-perfecto/)
-* [Automated Performance Testing Codelab - Android](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html)
 * [Ultimate Android Reference](https://github.com/aritraroy/UltimateAndroidReference)
 * [Android UI Automation: Part 1, Building Trust](https://slack.engineering/android-ui-automation-part-1-building-trust-de3deb1c5995)
 * [Android UI Automation: Part 2, Making It Easy](https://slack.engineering/android-ui-automation-part-2-making-it-easy-57335c7379cc)
@@ -275,6 +272,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Mobile App Test Coverage Model : LONG FUN CUP](https://testingideas.wordpress.com/2014/08/17/mobile-app-test-coverage-model-long-fun-cup/)
 * [Ooga-chaka: Git hooks to enforce code quality](https://proandroiddev.com/ooga-chaka-git-hooks-to-enforce-code-quality-11ce8d0d23cb)
 * [A Comprehensive Guide To Mobile App Design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-to-mobile-app-design/)
+* [Mobile A11y - Resources](https://mobilea11y.com/resources/)
 
 ## Books
 * [Hands-On Mobile App Testing By Daniel Knott](http://www.informit.com/store/hands-on-mobile-app-testing-a-guide-for-mobile-testers-9780134191713)
@@ -288,6 +286,9 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [How to get started with mobile penetration testing for Android](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-android)
 * [drozer](https://github.com/mwrlabs/drozer)
 * [androguard](https://github.com/androguard/androguard)
+* [gradle-bodyguard](https://github.com/dotanuki-labs/gradle-bodyguard)
+* [MOBEXLER](https://mobexler.com/)
+* [PiracyChecker](https://github.com/javiersantos/PiracyChecker)
 
 ### iOS
 * [Hacking iOS Applications](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
@@ -318,10 +319,12 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [SonarLint](http://www.sonarlint.org/intellij/)
 * [detekt](https://github.com/arturbosch/detekt)
 * [Dependency Injection usage Checks](https://github.com/groupon/dependency-injection-checks)
+* [Static Code Analysis](https://github.com/Monits/static-code-analysis-plugin)
 
 ### iOS
 * [SwiftLint](https://github.com/realm/SwiftLint)
 * [Xcode Analyze](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/static_analyzer.html)
+* [Periphery](https://github.com/peripheryapp/periphery)
 
 ### Multiplatform
 * [SonarQube](https://www.sonarqube.org/)
@@ -330,6 +333,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 ### Android
 * [Don’t Keep Activities](http://stackoverflow.com/a/22402360)
+* [Venom](https://github.com/YarikSOffice/venom)
 
 #### Fill RAM
 * [Fill RAM memory](https://play.google.com/store/apps/details?id=me.empirical.android.application.fillmemory&hl=pl)
@@ -351,6 +355,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Appsee](https://www.appsee.com/) :moneybag:
 * [Appachhi](https://appachhi.com/) :moneybag:
 * [AppSpector](https://appspector.com/) :moneybag:
+* [Perfetto](https://perfetto.dev/)
 
 ### Cloud Testing
 * [Monkop](https://appachhi.com/) :moneybag:
@@ -437,6 +442,12 @@ To edit I use [Xmind](http://www.xmind.net/)
 
 #### iOS
 * [Continuous Performance Testing of an iOS Apps using XCTest](http://shashikantjagtap.net/continuous-performance-testing-ios-apps-using-xctest/)
+
+
+### Binary size
+
+#### Android
+* [apkscale](https://github.com/twilio/apkscale)
 
 ### Other
 
@@ -606,6 +617,16 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### iOS
 * [Finding iOS Memory Leaks with Xcode’s Instruments](https://spin.atomicobject.com/2016/01/25/ios-memory-leak-xcode)
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker)
+
+## Other
+
+### Android
+* [ADB Event Mirror](https://github.com/JakeWharton/adb-event-mirror)
+
+## Mindmap
+![Quality in mobile apps mindmap](images/quality_mobile_apps_mindmap.png)
+
+To edit I use [Xmind](http://www.xmind.net/)
 
 # Contributing
 
