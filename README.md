@@ -355,7 +355,7 @@ Table of Contents
 * [Appachhi](https://appachhi.com/) :moneybag:
 * [AppSpector](https://appspector.com/) :moneybag:
 * [Perfetto](https://perfetto.dev/)
-* [Smartlook](https://www.smartlook.com/)
+* [Smartlook](https://www.smartlook.com/) :moneybag:
 
 
 ### Cloud Testing
