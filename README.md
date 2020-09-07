@@ -15,6 +15,7 @@ Table of Contents
          * [iOS](#ios-1)
       * [Debug](#debug)
          * [Android](#android-2)
+         * [Multiplatform](#multiplatform)
       * [Reverse engineering](#reverse-engineering)
          * [Android](#android-3)
       * [Screen mirroring](#screen-mirroring)
@@ -39,11 +40,11 @@ Table of Contents
       * [Security](#security)
          * [Android](#android-9)
          * [iOS](#ios-7)
-         * [Multiplatform](#multiplatform)
+         * [Multiplatform](#multiplatform-1)
       * [Static analysis](#static-analysis)
          * [Android](#android-10)
          * [iOS](#ios-8)
-         * [Multiplatform](#multiplatform-1)
+         * [Multiplatform](#multiplatform-2)
       * [App state restoring](#app-state-restoring)
          * [Android](#android-11)
             * [Fill RAM](#fill-ram)
@@ -93,7 +94,7 @@ Table of Contents
          * [e2e](#e2e)
             * [Android](#android-20)
             * [iOS](#ios-16)
-         * [Multiplatform](#multiplatform-2)
+         * [Multiplatform](#multiplatform-3)
          * [Helpers](#helpers)
             * [Android](#android-21)
             * [iOS](#ios-17)
@@ -110,8 +111,13 @@ Table of Contents
       * [Leaks](#leaks)
          * [Android](#android-25)
          * [iOS](#ios-18)
-      * [Other](#other-3)
+      * [Publishing](#publishing)
          * [Android](#android-26)
+         * [Multiplatform](#multiplatform-4)
+      * [Continous Integration](#continous-integration)
+         * [Android](#android-27)
+      * [Other](#other-3)
+         * [Android](#android-28)
    * [Contributing](#contributing)
    * [License](#license)
 
@@ -154,8 +160,16 @@ Table of Contents
 
 ### Android
 * [Stetho](http://facebook.github.io/stetho/)
+   * [Stetho-Realm](https://github.com/uPhyca/stetho-realm)
 * [PID Cat](https://github.com/JakeWharton/pidcat)
 * [HyperLog Android](https://github.com/hypertrack/hyperlog-android)
+* [Realm Browser for Android](https://scand.com/products/realmbrowser/)
+* [Dagger Browser](https://github.com/Snapchat/dagger-browser)
+* [RoomExplorer](https://github.com/wajahatkarim3/RoomExplorer)
+
+
+### Multiplatform
+* [Realm Studio](https://github.com/realm/realm-studio)
 
 ## Reverse engineering
 
@@ -253,6 +267,7 @@ Table of Contents
 * [Getting started with XCUITest framework for testing iOS apps.](https://blog.novoda.com/getting-started-with-xcuitest-framework-for-testing-ios-apps/)
 * [New XCUITest Features With Xcode 9: Hands-on Exploration](https://dzone.com/articles/new-xcuitest-features-with-xcode-9-hands-on-explor)
 * [User Interface Testing - Apple Docs](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/09-ui_testing.html)
+* [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet)
 
 ### React Native
 * [How to Apply UI Test Automation in React Native Apps?](https://www.polidea.com/blog/how-to-apply-ui-test-automation-in-react-native-apps/)
@@ -278,21 +293,22 @@ Table of Contents
 
 ## Security
 
-
 ### Android
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
-* [Fridump](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+* [Fridump](https://github.com/Nightbringer21/fridump)
 * [How to get started with mobile penetration testing for Android](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-android)
 * [drozer](https://github.com/mwrlabs/drozer)
 * [androguard](https://github.com/androguard/androguard)
 * [gradle-bodyguard](https://github.com/dotanuki-labs/gradle-bodyguard)
 * [MOBEXLER](https://mobexler.com/)
 * [PiracyChecker](https://github.com/javiersantos/PiracyChecker)
+* [Oversecured](https://oversecured.com/) :moneybag:
 
 ### iOS
 * [Hacking iOS Applications](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 * [How to get started with mobile penetration testing for iOS](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-ios)
 * [Introspy-iOS](https://github.com/iSECPartners/Introspy-iOS)
+* [iOS Security Suite](https://github.com/securing/IOSSecuritySuite)
 
 ### Multiplatform
 * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
@@ -355,6 +371,8 @@ Table of Contents
 * [Appachhi](https://appachhi.com/) :moneybag:
 * [AppSpector](https://appspector.com/) :moneybag:
 * [Perfetto](https://perfetto.dev/)
+* [Bugfender](https://bugfender.com/) :moneybag:
+* [Shake](https://www.shakebugs.com/) :moneybag:
 
 ### Cloud Testing
 * [Monkop](https://appachhi.com/) :moneybag:
@@ -425,6 +443,7 @@ Table of Contents
 * [FrameMetrics](https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8550413c1c#.jzhowg88o)
 * [Testing Android UI Performance](http://dtmilano.blogspot.com/2017/04/testing-android-ui-performance.html)
 * [AndroidGodEye](https://github.com/Kyson/AndroidGodEye)
+* [Booster](https://github.com/didi/booster)
 
 #### iOS
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector)
@@ -617,10 +636,29 @@ Table of Contents
 * [Finding iOS Memory Leaks with Xcode’s Instruments](https://spin.atomicobject.com/2016/01/25/ios-memory-leak-xcode)
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker)
 
+## Publishing
+
+### Android
+* [Autoplay](https://github.com/beworker/autoplay)
+
+### Multiplatform
+* [fastlane](https://fastlane.tools/)
+
+## Continous Integration
+
+### Android
+* [Android Emulator Container Scripts](https://github.com/google/android-emulator-container-scripts)
+
 ## Other
 
 ### Android
 * [ADB Event Mirror](https://github.com/JakeWharton/adb-event-mirror)
+* [ADB Enhanced](https://github.com/ashishb/adb-enhanced)
+* [Radiography](https://github.com/square/radiography)
+* [Diffuse](https://github.com/JakeWharton/diffuse)
+* [Dependency Tree Diff](https://github.com/JakeWharton/dependency-tree-diff)
+* [Gradle Doctor](https://github.com/runningcode/gradle-doctor)
+* [Scabbard](https://github.com/arunkumar9t2/scabbard)
 
 # Contributing
 
