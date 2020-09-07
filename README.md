@@ -373,6 +373,7 @@ Table of Contents
 * [Perfetto](https://perfetto.dev/)
 * [Bugfender](https://bugfender.com/) :moneybag:
 * [Shake](https://www.shakebugs.com/) :moneybag:
+* [Smartlook](https://www.smartlook.com/) :moneybag:
 
 ### Cloud Testing
 * [Monkop](https://appachhi.com/) :moneybag:
