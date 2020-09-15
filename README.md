@@ -35,6 +35,7 @@ Table of Contents
          * [Android](#android-8)
          * [iOS](#ios-6)
          * [React Native](#react-native)
+         * [Flutter](#flutter)
          * [All](#all)
       * [Books](#books)
       * [Security](#security)
@@ -118,6 +119,8 @@ Table of Contents
          * [Android](#android-27)
       * [Other](#other-3)
          * [Android](#android-28)
+         * [React Native](#react-native-1)
+         * [Flutter](#flutter-1)
    * [Contributing](#contributing)
    * [License](#license)
 
@@ -137,6 +140,10 @@ Table of Contents
 ### iOS
 * [Accessibility - docs](https://developer.apple.com/accessibility/ios/)
 * [iOS Accessibility Tutorial: Getting Started](https://www.raywenderlich.com/142058/ios-accessibility-tutorial)
+* [Google Toolbox for Accessibility for iOS](https://github.com/google/GTXiLib)
+* [UBKAccessibilityKit](https://github.com/NAB/UBKAccessibilityKit)
+* [AccessibilitySnapshot](https://github.com/cashapp/AccessibilitySnapshot)
+* [A11yUITests](https://github.com/rwapp/A11yUITests)
 
 ## Developer settings
 
@@ -272,6 +279,9 @@ Table of Contents
 ### React Native
 * [How to Apply UI Test Automation in React Native Apps?](https://www.polidea.com/blog/how-to-apply-ui-test-automation-in-react-native-apps/)
 
+### Flutter
+* [Bluetooth Low Energy Simulator—A New Hope in IoT Development](https://www.polidea.com/blog/bluetooth-low-energy-simulator-a-new-hope-in-iot-development/)
+
 ### All
 * [Visualizing and optimizing real user performance on mobile - LinkedIn](https://www.facebook.com/atscaleevents/videos/vl.531312673697503/1693979707541793/?type=1)
 * [10 Mobile App Testing Mistakes to Avoid](http://adventuresinqa.com/2016/05/03/10-mobile-app-testing-mistakes-to-avoid/)
@@ -303,6 +313,7 @@ Table of Contents
 * [MOBEXLER](https://mobexler.com/)
 * [PiracyChecker](https://github.com/javiersantos/PiracyChecker)
 * [Oversecured](https://oversecured.com/) :moneybag:
+* [CRYLOGGER](https://github.com/lucapiccolboni/crylogger)
 
 ### iOS
 * [Hacking iOS Applications](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
@@ -660,6 +671,12 @@ Table of Contents
 * [Dependency Tree Diff](https://github.com/JakeWharton/dependency-tree-diff)
 * [Gradle Doctor](https://github.com/runningcode/gradle-doctor)
 * [Scabbard](https://github.com/arunkumar9t2/scabbard)
+
+### React Native
+* [react-native-blemulator](https://github.com/Polidea/react-native-blemulator)
+
+### Flutter
+* [BLEmulator Flutter](https://github.com/Polidea/blemulator_flutter)
 
 # Contributing
 
