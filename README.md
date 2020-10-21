@@ -33,14 +33,19 @@ Table of Contents
          * [iOS](#ios-5)
       * [Linked](#linked)
          * [Android](#android-8)
+            * [Performance](#performance)
+            * [Security](#security)
          * [iOS](#ios-6)
+            * [Security](#security-1)
          * [React Native](#react-native)
          * [Flutter](#flutter)
+            * [UI Tests](#ui-tests)
          * [All](#all)
       * [Books](#books)
-      * [Security](#security)
+      * [Security](#security-2)
          * [Android](#android-9)
          * [iOS](#ios-7)
+         * [React Native](#react-native-1)
          * [Multiplatform](#multiplatform-1)
       * [Static analysis](#static-analysis)
          * [Android](#android-10)
@@ -100,6 +105,7 @@ Table of Contents
             * [Android](#android-21)
             * [iOS](#ios-17)
                * [Network Stubbing](#network-stubbing-1)
+               * [React Native](#react-native-2)
                * [Multiplatfom](#multiplatfom)
          * [Pattern](#pattern)
             * [Robot](#robot)
@@ -119,7 +125,7 @@ Table of Contents
          * [Android](#android-27)
       * [Other](#other-3)
          * [Android](#android-28)
-         * [React Native](#react-native-1)
+         * [React Native](#react-native-3)
          * [Flutter](#flutter-1)
    * [Contributing](#contributing)
    * [License](#license)
@@ -173,6 +179,7 @@ Table of Contents
 * [Realm Browser for Android](https://scand.com/products/realmbrowser/)
 * [Dagger Browser](https://github.com/Snapchat/dagger-browser)
 * [RoomExplorer](https://github.com/wajahatkarim3/RoomExplorer)
+* [Chucker](https://github.com/ChuckerTeam/chucker)
 
 
 ### Multiplatform
@@ -242,10 +249,8 @@ Table of Contents
 ## Linked
 
 ### Android
-* [Android Performance Case Study: Memory vs. Frame Time](http://blog.karumi.com/android-performance-case-study-memory-vs-frame-time/)
 * [Android Development Culture. The Document. #qualitymatters](https://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
     * [QualityMatters](https://github.com/artem-zinnatullin/qualitymatters)
-* [Android Performance monitoring [Part 1]](https://blog.mindorks.com/android-performance-monitoring-part-1-1ce1b8df8a12#.xvmd7s505)
 * [Useful tips to inspect your Android app — Part 1](https://medium.com/freenet-engineering/useful-tips-to-inspect-your-android-app-part-1-34415239e91a#.t59kbicht)
 * [The 2016 Android Developer Toolbox](https://realm.io/news/mobilization-gautier-mechling-the-2016-android-developer-toolbox/)
 * [Mobile Testing of Location-Powered Android Apps](http://blog.perfectomobile.com/mobile-application-testing/continuous-mobile-testing-of-location-powered-apps-with-perfecto/)
@@ -256,13 +261,22 @@ Table of Contents
 * [Testing in-app purchases on Android](https://medium.com/bleeding-edge/testing-in-app-purchases-on-android-a6de74f78878)
 * [Using Gradle build cache with Kotlin](https://blog.jetbrains.com/kotlin/2018/02/using-gradle-build-cache-with-kotlin/)
 * [Add Superpowers to your Appium-Android tests](https://badootech.badoo.com/add-superpowers-to-your-appium-android-tests-f408ac2f1b59)
-* [Performance Testing of Android Apps](https://appiumpro.com/editions/5)
 * [Running arbitrary ADB commands via Appium](https://appiumpro.com/editions/3)
 * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
 * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
 * [Android CI with kubernetes](https://medium.com/@Malinskiy/android-ci-with-kubernetes-684713a83eec)
 * [Taming the UI test monster](https://medium.com/stepstone-tech/taming-the-ui-test-monster-26c017848ae0)
 * [Android testing with Espresso’s Idling Resources and testing fidelity](https://medium.com/androiddevelopers/android-testing-with-espressos-idling-resources-and-testing-fidelity-8b8647ed57f4)
+
+#### Performance
+* [Test UI performance](https://developer.android.com/training/testing/performance)
+* [Testing Android UI Performance](http://dtmilano.blogspot.com/2017/04/testing-android-ui-performance.html)
+* [Android Performance Case Study: Memory vs. Frame Time](http://blog.karumi.com/android-performance-case-study-memory-vs-frame-time/)
+* [Android Performance monitoring [Part 1]](https://blog.mindorks.com/android-performance-monitoring-part-1-1ce1b8df8a12#.xvmd7s505)
+* [Performance Testing of Android Apps](https://appiumpro.com/editions/5)
+
+#### Security
+* [Cyber-Sec-Resources](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security#android)
 
 ### iOS
 * [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times)
@@ -276,11 +290,18 @@ Table of Contents
 * [User Interface Testing - Apple Docs](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/09-ui_testing.html)
 * [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet)
 
+#### Security
+* [Cyber-Sec-Resources](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security#ios)
+
 ### React Native
 * [How to Apply UI Test Automation in React Native Apps?](https://www.polidea.com/blog/how-to-apply-ui-test-automation-in-react-native-apps/)
+* [Widget Testing With Flutter: Getting Started](https://www.raywenderlich.com/9591040-widget-testing-with-flutter-getting-started)
 
 ### Flutter
 * [Bluetooth Low Energy Simulator—A New Hope in IoT Development](https://www.polidea.com/blog/bluetooth-low-energy-simulator-a-new-hope-in-iot-development/)
+
+#### UI Tests
+* [It’s Flutter Time—Introduction to UI Tests](https://www.polidea.com/blog/its-flutter-time-introduction-to-ui-tests/)
 
 ### All
 * [Visualizing and optimizing real user performance on mobile - LinkedIn](https://www.facebook.com/atscaleevents/videos/vl.531312673697503/1693979707541793/?type=1)
@@ -314,12 +335,18 @@ Table of Contents
 * [PiracyChecker](https://github.com/javiersantos/PiracyChecker)
 * [Oversecured](https://oversecured.com/) :moneybag:
 * [CRYLOGGER](https://github.com/lucapiccolboni/crylogger)
+* [apkLeaks](https://github.com/dwisiswant0/apkleaks)
+* [REX](https://www.digitalinterruption.com/rex) :moneybag:
 
 ### iOS
 * [Hacking iOS Applications](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 * [How to get started with mobile penetration testing for iOS](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-ios)
 * [Introspy-iOS](https://github.com/iSECPartners/Introspy-iOS)
 * [iOS Security Suite](https://github.com/securing/IOSSecuritySuite)
+
+### React Native
+* [npm audit](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities)
+* [yarn audit](https://classic.yarnpkg.com/en/docs/cli/audit/)
 
 ### Multiplatform
 * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
@@ -385,6 +412,7 @@ Table of Contents
 * [Bugfender](https://bugfender.com/) :moneybag:
 * [Shake](https://www.shakebugs.com/) :moneybag:
 * [Smartlook](https://www.smartlook.com/) :moneybag:
+* [Apptim](https://www.apptim.com/) :moneybag:
 
 ### Cloud Testing
 * [Monkop](https://appachhi.com/) :moneybag:
@@ -453,7 +481,6 @@ Table of Contents
 * [Pury](https://github.com/NikitaKozlov/Pury)
 * [Tiny Dancer](https://github.com/friendlyrobotnyc/TinyDancer)
 * [FrameMetrics](https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8550413c1c#.jzhowg88o)
-* [Testing Android UI Performance](http://dtmilano.blogspot.com/2017/04/testing-android-ui-performance.html)
 * [AndroidGodEye](https://github.com/Kyson/AndroidGodEye)
 * [Booster](https://github.com/didi/booster)
 
@@ -478,6 +505,7 @@ Table of Contents
 
 #### Android
 * [apkscale](https://github.com/twilio/apkscale)
+* [Apk Size Analyze](https://github.com/amank22/ApkSize-Analyzer)
 
 ### Other
 
@@ -592,24 +620,31 @@ Table of Contents
 * [AndroidTestXRunner](https://github.com/stepstone-tech/AndroidTestXRunner)
 * [OkHttp Idling Resource](https://github.com/JakeWharton/okhttp-idling-resource)
 * [RxIdler](https://github.com/square/RxIdler)
+* [Fladle](https://github.com/runningcode/fladle/)
 
 #### iOS
 * [Bluepill](https://github.com/linkedin/bluepill)
     * [Open Sourcing Bluepill: Run iOS Tests in Multiple Simulators](https://engineering.linkedin.com/blog/2017/01/open-sourcing-bluepill--run-ios-tests-in-multiple-simulators)
 * [pxctest](https://github.com/plu/pxctest)
+* [Cachi](https://github.com/Subito-it/Cachi)
 
 ##### Network Stubbing
   * [Swifter](https://github.com/httpswift/swifter)
   * [SBTUITestTunnel](https://github.com/Subito-it/SBTUITestTunnel)
 
+##### React Native
+* [Reactotron](https://github.com/infinitered/reactotron)
+
 ##### Multiplatfom
 * [App Inspector](https://macacajs.github.io/app-inspector/)
 * [AppiumTestDistribution](https://github.com/saikrishna321/AppiumTestDistribution)
+* [Flank](https://github.com/Flank/flank)
 
 ### Pattern
 
 #### Robot
 * [Instrumentation Testing Robots](https://realm.io/news/kau-jake-wharton-testing-robots/)
+* [Robot Pattern Testing for XCUITest](https://medium.com/capital-one-tech/robot-pattern-testing-for-xcuitest-4c2f0c40b4ad)
 
 ### Other
 
@@ -652,6 +687,7 @@ Table of Contents
 
 ### Android
 * [Autoplay](https://github.com/beworker/autoplay)
+* [GloballyDynamic](https://github.com/jeppeman/GloballyDynamic)
 
 ### Multiplatform
 * [fastlane](https://fastlane.tools/)
@@ -671,6 +707,7 @@ Table of Contents
 * [Dependency Tree Diff](https://github.com/JakeWharton/dependency-tree-diff)
 * [Gradle Doctor](https://github.com/runningcode/gradle-doctor)
 * [Scabbard](https://github.com/arunkumar9t2/scabbard)
+* [Version Checker Gradle Lint](https://github.com/PicPay/version-checker-gradle-lint)
 
 ### React Native
 * [react-native-blemulator](https://github.com/Polidea/react-native-blemulator)
