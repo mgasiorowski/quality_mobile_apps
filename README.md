@@ -381,6 +381,7 @@ Table of Contents
 
 ### Multiplatform
 * [SonarQube](https://www.sonarqube.org/)
+* [Danger](https://github.com/danger/danger)
 
 ## App state restoring
 
