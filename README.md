@@ -295,13 +295,13 @@ Table of Contents
 
 ### React Native
 * [How to Apply UI Test Automation in React Native Apps?](https://www.polidea.com/blog/how-to-apply-ui-test-automation-in-react-native-apps/)
-* [Widget Testing With Flutter: Getting Started](https://www.raywenderlich.com/9591040-widget-testing-with-flutter-getting-started)
 
 ### Flutter
 * [Bluetooth Low Energy Simulator—A New Hope in IoT Development](https://www.polidea.com/blog/bluetooth-low-energy-simulator-a-new-hope-in-iot-development/)
 
 #### UI Tests
 * [It’s Flutter Time—Introduction to UI Tests](https://www.polidea.com/blog/its-flutter-time-introduction-to-ui-tests/)
+* [Widget Testing With Flutter: Getting Started](https://www.raywenderlich.com/9591040-widget-testing-with-flutter-getting-started)
 
 ### All
 * [Visualizing and optimizing real user performance on mobile - LinkedIn](https://www.facebook.com/atscaleevents/videos/vl.531312673697503/1693979707541793/?type=1)
