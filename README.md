@@ -231,8 +231,7 @@ Table of Contents
 * [Hyperion - App Inspection Tool](https://github.com/willowtreeapps/Hyperion-Android)
 
 ### iOS
-* [FBSnapshotTestCase](https://github.com/facebook/ios-snapshot-test-case)
-* [Flawless App](https://flawlessapp.io/) :moneybag:
+* [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case/)
 * [Hyperion - In App Design Review Tool](https://github.com/willowtreeapps/Hyperion-iOS)
 
 ## Stress testing
@@ -350,6 +349,7 @@ Table of Contents
 
 ### Multiplatform
 * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+* [Dependency-Check](https://github.com/jeremylong/DependencyCheck)
 * OWSAP
    * [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
       * [OWASP Mobile AppSec Verification Standard (MASVS) v1.1.4 4 - notes](https://github.com/mgasiorowski/quality_mobile_apps/blob/master/documents/owasp_mobile_security_project/OWASP_Mobile_AppSec_Verification_Standard.png)
@@ -535,7 +535,6 @@ Table of Contents
 * [How to get charles proxy work with Android 7 nougat?](https://stackoverflow.com/questions/39215229/how-to-get-charles-proxy-work-with-android-7-nougat)
     * [Add Securiy Exception to APK](https://github.com/levyitay/AddSecurityExceptionAndroid)
 * [Burp](https://portswigger.net/burp/)
-    * [How to Monitor Mobile App Traffic With Sniffers](https://stanfy.com/blog/monitor-mobile-app-traffic-with-sniffers/)
 * [Fiddler](http://www.telerik.com/fiddler)
 * [Proxyman](https://proxyman.io/) :moneybag:
 
