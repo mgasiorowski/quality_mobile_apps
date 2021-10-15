@@ -131,19 +131,23 @@ Table of Contents
    * [License](#license)
 
 ## Legend
+
 :moneybag: - Paid services, tools, etc
 
 ## Accessibility
 
 ### Android
+
 * [Accessibility - docs](https://developer.android.com/guide/topics/ui/accessibility/index.html)
 * [Accessibility Developer Checklist](https://developer.android.com/guide/topics/ui/accessibility/checklist.html)
 * [Android Accessibility Tutorial: Getting Started](https://www.raywenderlich.com/182100/android-accessibility-tutorial-getting-started)
 
 #### Tools
+
 * [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)
 
 ### iOS
+
 * [Accessibility - docs](https://developer.apple.com/accessibility/ios/)
 * [iOS Accessibility Tutorial: Getting Started](https://www.raywenderlich.com/142058/ios-accessibility-tutorial)
 * [Google Toolbox for Accessibility for iOS](https://github.com/google/GTXiLib)
@@ -154,6 +158,7 @@ Table of Contents
 ## Developer settings
 
 ### Android
+
 * [Barstool](https://github.com/wmbest2/Barstool)
 * [QualityMatters](https://github.com/artem-zinnatullin/qualitymatters)
 * [Bee](https://github.com/orhanobut/bee)
@@ -162,8 +167,10 @@ Table of Contents
 * [Debug artist](https://github.com/BaristaVentures/debug-artist)
 * [Cockpit](https://github.com/Polidea/Cockpit)
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-Android)
+* [Pluto](https://github.com/mocklets/pluto)
 
 ### iOS
+
 * [Yoshi](https://github.com/prolificinteractive/Yoshi)
 * [FLEX](https://github.com/Flipboard/FLEX)
 * [Tweaks](https://github.com/facebook/Tweaks)
@@ -172,6 +179,7 @@ Table of Contents
 ## Debug
 
 ### Android
+
 * [Stetho](http://facebook.github.io/stetho/)
    * [Stetho-Realm](https://github.com/uPhyca/stetho-realm)
 * [PID Cat](https://github.com/JakeWharton/pidcat)
@@ -183,11 +191,13 @@ Table of Contents
 
 
 ### Multiplatform
+
 * [Realm Studio](https://github.com/realm/realm-studio)
 
 ## Reverse engineering
 
 ### Android
+
 * [Apktool](https://ibotpeaches.github.io/Apktool/)
 * [JADX](https://github.com/skylot/jadx)
 * [smali](https://github.com/JesusFreke/smali)
@@ -195,26 +205,31 @@ Table of Contents
 ## Screen mirroring
 
 ### Android
+
 * [Mobizen](https://www.mobizen.com/)
 * [Vysor](https://www.vysor.io/) :moneybag:
 * [scrcpy](https://github.com/Genymobile/scrcpy)
 
 ### iOS
+
 * QuickTime
 
 ## Emulator/simulator
 
 ### Android
+
 * [Android SDK](https://developer.android.com/studio/run/managing-avds.html)
     * [Intel HAXM](https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager)
 * [Genymotion](https://www.genymotion.com/) :moneybag:
 
 ### iOS
+
 * [Xcode simulator](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html)
 * [simctl: Control iOS Simulators from Command Line](http://shashikantjagtap.net/simctl-control-ios-simulators-command-line/?utm_content=buffer5c6da)
 * [Sherlock](https://sherlock.inspiredcode.io/) :moneybag:
 
 ## Manual testing
+
 * Eploratory testing - sprints
 * Checklists
 * Bug Hunts
@@ -224,23 +239,28 @@ Table of Contents
 ## Visual testing
 
 ### Android
+
 * [screenshot-tests-for-android](http://facebook.github.io/screenshot-tests-for-android/)
     * [Shot](https://github.com/Karumi/Shot)
 * [Designer Tools](https://play.google.com/store/apps/details?id=com.scheffsblend.designertools)
 * [nakal](https://github.com/saikrishna321/nakal_java)
 * [Hyperion - App Inspection Tool](https://github.com/willowtreeapps/Hyperion-Android)
+* [FontSizeActivityScenario and FontSizeTestRule](https://github.com/sergio-sastre/FontSizeTestRule)
 
 ### iOS
+
 * [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case/)
 * [Hyperion - In App Design Review Tool](https://github.com/willowtreeapps/Hyperion-iOS)
 
 ## Stress testing
 
 ### Android
+
 * [UI/Application Exerciser Monkey](https://developer.android.com/studio/test/monkey.html)
 * [Android Developer Toolbelt](https://github.com/T-Spoon/Android-Developer-Toolbelt)
 
 ### iOS
+
 * [ui-auto-monkey](https://github.com/jonathanpenn/ui-auto-monkey) - DEPRECATED
 * [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey)
 * [SwiftMonkey](https://github.com/zalando/SwiftMonkey)
@@ -248,6 +268,7 @@ Table of Contents
 ## Linked
 
 ### Android
+
 * [Android Development Culture. The Document. #qualitymatters](https://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
     * [QualityMatters](https://github.com/artem-zinnatullin/qualitymatters)
 * [Useful tips to inspect your Android app — Part 1](https://medium.com/freenet-engineering/useful-tips-to-inspect-your-android-app-part-1-34415239e91a#.t59kbicht)
@@ -268,6 +289,7 @@ Table of Contents
 * [Android testing with Espresso’s Idling Resources and testing fidelity](https://medium.com/androiddevelopers/android-testing-with-espressos-idling-resources-and-testing-fidelity-8b8647ed57f4)
 
 #### Performance
+
 * [Test UI performance](https://developer.android.com/training/testing/performance)
 * [Testing Android UI Performance](http://dtmilano.blogspot.com/2017/04/testing-android-ui-performance.html)
 * [Android Performance Case Study: Memory vs. Frame Time](http://blog.karumi.com/android-performance-case-study-memory-vs-frame-time/)
@@ -275,9 +297,11 @@ Table of Contents
 * [Performance Testing of Android Apps](https://appiumpro.com/editions/5)
 
 #### Security
+
 * [Cyber-Sec-Resources](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security#android)
 
 ### iOS
+
 * [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times)
 * [Testing iOS App Upgrades](https://appiumpro.com/editions/6)
 * [5 Tools for Uploading iOS apps to iTunes Connect](http://shashikantjagtap.net/5-tools-uploading-ios-apps-itunes-connect/)
@@ -290,19 +314,24 @@ Table of Contents
 * [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet)
 
 #### Security
+
 * [Cyber-Sec-Resources](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security#ios)
 
 ### React Native
+
 * [How to Apply UI Test Automation in React Native Apps?](https://www.polidea.com/blog/how-to-apply-ui-test-automation-in-react-native-apps/)
 
 ### Flutter
+
 * [Bluetooth Low Energy Simulator—A New Hope in IoT Development](https://www.polidea.com/blog/bluetooth-low-energy-simulator-a-new-hope-in-iot-development/)
 
 #### UI Tests
+
 * [It’s Flutter Time—Introduction to UI Tests](https://www.polidea.com/blog/its-flutter-time-introduction-to-ui-tests/)
 * [Widget Testing With Flutter: Getting Started](https://www.raywenderlich.com/9591040-widget-testing-with-flutter-getting-started)
 
 ### All
+
 * [Visualizing and optimizing real user performance on mobile - LinkedIn](https://www.facebook.com/atscaleevents/videos/vl.531312673697503/1693979707541793/?type=1)
 * [10 Mobile App Testing Mistakes to Avoid](http://adventuresinqa.com/2016/05/03/10-mobile-app-testing-mistakes-to-avoid/)
 * [Smartwatch Testing Cheat Sheet](http://adventuresinqa.com/2016/05/30/smartwatch-testing-cheat-sheet/)
@@ -319,12 +348,15 @@ Table of Contents
 * [Mobile A11y - Resources](https://mobilea11y.com/resources/)
 
 ## Books
+
 * [Hands-On Mobile App Testing By Daniel Knott](http://www.informit.com/store/hands-on-mobile-app-testing-a-guide-for-mobile-testers-9780134191713)
 
 ## Security
 
 ### Android
+
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
+* [Awesome-Android-Security ](https://github.com/saeidshirazi/awesome-android-security)
 * [Fridump](https://github.com/Nightbringer21/fridump)
 * [How to get started with mobile penetration testing for Android](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-android)
 * [drozer](https://github.com/mwrlabs/drozer)
@@ -336,18 +368,22 @@ Table of Contents
 * [CRYLOGGER](https://github.com/lucapiccolboni/crylogger)
 * [apkLeaks](https://github.com/dwisiswant0/apkleaks)
 * [REX](https://www.digitalinterruption.com/rex) :moneybag:
+* [Mariana Trench](https://github.com/facebook/mariana-trench)
 
 ### iOS
+
 * [Hacking iOS Applications](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 * [How to get started with mobile penetration testing for iOS](https://learn.techbeacon.com/units/how-get-started-mobile-penetration-testing-ios)
 * [Introspy-iOS](https://github.com/iSECPartners/Introspy-iOS)
 * [iOS Security Suite](https://github.com/securing/IOSSecuritySuite)
 
 ### React Native
+
 * [npm audit](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities)
 * [yarn audit](https://classic.yarnpkg.com/en/docs/cli/audit/)
 
 ### Multiplatform
+
 * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [Dependency-Check](https://github.com/jeremylong/DependencyCheck)
 * OWSAP
@@ -361,6 +397,7 @@ Table of Contents
 ## Static analysis
 
 ### Android
+
 * [SDK lint](https://developer.android.com/studio/write/lint.html)
     * [How To Create Your Own Lint Rule](http://blog.xebia.com/how-to-create-your-own-lint-rule/)
 * [PMD](https://pmd.github.io/)
@@ -375,21 +412,25 @@ Table of Contents
 * [Static Code Analysis](https://github.com/Monits/static-code-analysis-plugin)
 
 ### iOS
+
 * [SwiftLint](https://github.com/realm/SwiftLint)
 * [Xcode Analyze](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/static_analyzer.html)
 * [Periphery](https://github.com/peripheryapp/periphery)
 
 ### Multiplatform
+
 * [SonarQube](https://www.sonarqube.org/)
 * [Danger](https://github.com/danger/danger)
 
 ## App state restoring
 
 ### Android
+
 * [Don’t Keep Activities](http://stackoverflow.com/a/22402360)
 * [Venom](https://github.com/YarikSOffice/venom)
 
 #### Fill RAM
+
 * [Fill RAM memory](https://play.google.com/store/apps/details?id=me.empirical.android.application.fillmemory&hl=pl)
 * [Android Toollbelt](https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt&hl=pl)
     * [Android Developer Toolbelt](https://github.com/T-Spoon/Android-Developer-Toolbelt)
@@ -397,6 +438,7 @@ Table of Contents
 ## Web Services
 
 ### Analytics
+
 * [Dynatrace](https://www.dynatrace.com/solutions/application-monitoring/) :moneybag:
 * [monit24](https://monit24.pl/) :moneybag:
 * [New Relic](https://newrelic.com/mobile-monitoring) :moneybag:
@@ -416,12 +458,14 @@ Table of Contents
 * [Apptim](https://www.apptim.com/) :moneybag:
 
 ### Cloud Testing
+
 * [Monkop](https://appachhi.com/) :moneybag:
 * [NimbleDroid](https://nimbledroid.com) :moneybag:
 * [Appdiff](https://www.appdiff.com/) :moneybag:
 * [waldo](https://www.waldo.io/) :moneybag:
 
 ### Device Farm
+
 * [Kobiton (free beta)](https://kobiton.com/)
 * [Testdroid](http://bitbar.com/testing/) :moneybag:
 * [TestObject](https://testobject.com/) :moneybag:
@@ -437,6 +481,7 @@ Table of Contents
 * [robotic.mobi](https://robotic.mobi/) :moneybag:
 
 ### Crowd Testing
+
 * [Ubertesters](https://ubertesters.com/) :moneybag:
 * [TestFairy](https://testfairy.com/) :moneybag:
 * [Beta Family](https://betafamily.com/) :moneybag:
@@ -450,33 +495,40 @@ Table of Contents
 ### CPU
 
 #### Android
+
 * [CPU Monitor](https://developer.android.com/studio/profile/am-cpu.html)
 
 #### iOS
+
 * [Measure CPU Use](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/MeasuringCPUUse.html)
 
 ### RAM
 
 #### Android
+
 * [Memory Monitor](https://developer.android.com/studio/profile/am-memory.html)
 * [A useful memory debugger plugin for Android Studio](https://medium.com/@m_mirhoseini/a-useful-memory-debugger-plugin-for-android-studio-2d9d95bddc24#.mwvfhldy5)
     * [JVM Debugger Memory View for IntelliJ IDEA](https://plugins.jetbrains.com/idea/plugin/8537-jvm-debugger-memory-view)
 
 #### iOS
+
 * [Monitor Memory Usage](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/MonitoringMemoryUsage.html)
 
 ### Battery
 
 #### Android
+
 * [[Guide] Finding battery issues with Google's Battery Historian (no root)](https://www.reddit.com/r/Android/comments/5bb606/guide_finding_battery_issues_with_googles_battery/)
 
 #### iOS
+
 * [Optimising battery while building iOS apps](https://medium.com/@nikhilmshchs/optimising-ios-battery-5f0f3beadae7#.ulsuwrn0z)
 * [Debugging Energy Issues](https://developer.apple.com/videos/play/wwdc2015/708/)
 
 ### Speed
 
 #### Android
+
 * [Takt](https://github.com/wasabeef/Takt)
 * [AndroidDevMetric](https://github.com/frogermcs/AndroidDevMetrics)
 * [Pury](https://github.com/NikitaKozlov/Pury)
@@ -486,25 +538,30 @@ Table of Contents
 * [Booster](https://github.com/didi/booster)
 
 #### iOS
+
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector)
 * [FPSStatusBar](https://github.com/asaday/FPSStatusBar)
 * [GodEye](https://github.com/zixun/GodEye)
 
 ### Monitoring
+
 * [Grafana](http://grafana.org/)
 
 ### Duration of the method
 
 #### Android
+
 * [Hugo](https://github.com/JakeWharton/hugo)
 
 #### iOS
+
 * [Continuous Performance Testing of an iOS Apps using XCTest](http://shashikantjagtap.net/continuous-performance-testing-ios-apps-using-xctest/)
 
 
 ### Binary size
 
 #### Android
+
 * [apkscale](https://github.com/twilio/apkscale)
 * [Apk Size Analyze](https://github.com/amank22/ApkSize-Analyzer)
 
@@ -525,6 +582,7 @@ Table of Contents
 ## Network
 
 ### Proxy
+
 * [Charles Proxy](https://www.charlesproxy.com/) :moneybag:
    * [Bandwidth Throttle](https://www.charlesproxy.com/documentation/proxying/throttling/)
    * [Rewrite Tool](https://www.charlesproxy.com/documentation/tools/rewrite/)
@@ -539,6 +597,7 @@ Table of Contents
 * [Proxyman](https://proxyman.io/) :moneybag:
 
 ### Tools
+
 * [Augmented Traffic Control](https://github.com/facebook/augmented-traffic-control)
 * [Network Link Conditioner](http://nshipster.com/network-link-conditioner/)
 * [Cellular Data Network Simulator](https://github.com/Polidea/Cellular-Data-Network-Simulator)
@@ -548,14 +607,17 @@ Table of Contents
 ### Unit test
 
 #### Android
+
 * [Roboelectric](http://robolectric.org/)
 * [JUnit](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html)
 * [RoboSpock](http://robospock.github.io/RoboSpock/)
 
 #### iOS
+
 * [XCTest](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/04-writing_tests.html)
 
 ##### Network Stubbing
+
 * [Mockingjay](https://github.com/kylef/Mockingjay)
 * [Hippolyte](https://github.com/JanGorman/Hippolyte)
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
@@ -564,14 +626,17 @@ Table of Contents
 ### Coverage
 
 #### Android
+
 * [JacocoEverywhere](https://github.com/paveldudka/JacocoEverywhere)
 
 #### iOS
+
 * [slather](https://github.com/SlatherOrg/slather)
   * [Continuous iOS Code Coverage With Jenkins and Slather](https://pspdfkit.com/blog/2016/continuous-ios-code-coverage-with-jenkins-and-slather/)
 * [xcov](https://github.com/nakiostudio/xcov)
 
 ### Techniques
+
 * [Test Driven Development (TDD)](https://www.agilealliance.org/glossary/tdd/)
 * [Behaviour Driven Development (BDD)](https://www.agilealliance.org/glossary/bdd/)
 * [Acceptance Test Driven Development (ATDD)](https://www.agilealliance.org/glossary/atdd/)
@@ -579,6 +644,7 @@ Table of Contents
 ### e2e
 
 #### Android
+
 * [Espresso](https://developer.android.com/training/testing/espresso/)
     * [Cappuccino](https://github.com/autonomousapps/Cappuccino)
     * [Barista](https://github.com/SchibstedSpain/Barista)
@@ -596,6 +662,7 @@ Table of Contents
    * [Detox Helper for CodeceptJS](https://github.com/Codeception/detox-helper)
 
 #### iOS
+
 * [XCTest](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)
 * [KIF](https://github.com/kif-framework/KIF)
 * [EarlGrey](https://github.com/google/EarlGrey)
@@ -604,6 +671,7 @@ Table of Contents
    * [Cucumberish Example Application and Tests](https://blog.novoda.com/cucumberish-bdd-testing-framework-for-ios-applications-sample-application/)
 
 ### Multiplatform
+
 * [Calabash](http://calaba.sh/) - DEPRECATED
 * [Appium](http://appium.io/)
     * [Appium Studio](https://experitest.com/appium-studio/)
@@ -611,6 +679,7 @@ Table of Contents
 ### Helpers
 
 #### Android
+
 * [Test Butler](https://github.com/linkedin/test-butler)
 * [Spoon](https://github.com/square/spoon)
 * [Composer](https://github.com/gojuno/composer)
@@ -623,19 +692,23 @@ Table of Contents
 * [Fladle](https://github.com/runningcode/fladle/)
 
 #### iOS
+
 * [Bluepill](https://github.com/linkedin/bluepill)
     * [Open Sourcing Bluepill: Run iOS Tests in Multiple Simulators](https://engineering.linkedin.com/blog/2017/01/open-sourcing-bluepill--run-ios-tests-in-multiple-simulators)
 * [pxctest](https://github.com/plu/pxctest)
 * [Cachi](https://github.com/Subito-it/Cachi)
 
 ##### Network Stubbing
+
   * [Swifter](https://github.com/httpswift/swifter)
   * [SBTUITestTunnel](https://github.com/Subito-it/SBTUITestTunnel)
 
 ##### React Native
+
 * [Reactotron](https://github.com/infinitered/reactotron)
 
 ##### Multiplatfom
+
 * [App Inspector](https://macacajs.github.io/app-inspector/)
 * [AppiumTestDistribution](https://github.com/saikrishna321/AppiumTestDistribution)
 * [Flank](https://github.com/Flank/flank)
@@ -643,15 +716,18 @@ Table of Contents
 ### Pattern
 
 #### Robot
+
 * [Instrumentation Testing Robots](https://realm.io/news/kau-jake-wharton-testing-robots/)
 * [Robot Pattern Testing for XCUITest](https://medium.com/capital-one-tech/robot-pattern-testing-for-xcuitest-4c2f0c40b4ad)
 
 ### Other
 
 #### Android
+
 * [Mobile Testing of Location Powered Android Apps](http://blog.perfectomobile.com/mobile-application-testing/continuous-mobile-testing-of-location-powered-apps-with-perfecto/)
 
 ## Android
+
 * [AndroidTestingBox](https://roroche.github.io/AndroidTestingBox)
 * [Android Testing Guide](https://ravidsrk.github.io/android-testing-guide/)
 * [Android Testing with Kotlin](https://fernandocejas.com/2017/02/03/android-testing-with-kotlin/)
@@ -662,12 +738,14 @@ Table of Contents
 ## Test farm
 
 ### Android
+
 * [STF](https://openstf.io/)
   * [Android Device Farm at Mercari](https://medium.com/mercari-engineering/android-device-farm-at-mercari-3197237df0e1)
 * [Introducing “gnirehtet”, a reverse tethering tool for Android](https://medium.com/genymobile/gnirehtet-reverse-tethering-android-2afacdbdaec7)
 * [android-farm](https://github.com/agoda-com/android-farm)
 
 ### Other
+
 * [DeviceNanny](https://github.com/hudl/DeviceNanny)
 * [Building a Device Lab Slides & Links](https://larahogan.me/devicelab/)
 * [Cambrionix - proffesional USB hubs](https://cambrionix.com/)
@@ -675,31 +753,37 @@ Table of Contents
 ## Leaks
 
 ### Android
+
 * [LeakCanary](https://github.com/square/leakcanary)
 * [BlockCanary](https://github.com/markzhai/AndroidPerformanceMonitor)
     * [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx)
 
 ### iOS
+
 * [Finding iOS Memory Leaks with Xcode’s Instruments](https://spin.atomicobject.com/2016/01/25/ios-memory-leak-xcode)
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker)
 
 ## Publishing
 
 ### Android
+
 * [Autoplay](https://github.com/beworker/autoplay)
 * [GloballyDynamic](https://github.com/jeppeman/GloballyDynamic)
 
 ### Multiplatform
+
 * [fastlane](https://fastlane.tools/)
 
 ## Continous Integration
 
 ### Android
+
 * [Android Emulator Container Scripts](https://github.com/google/android-emulator-container-scripts)
 
 ## Other
 
 ### Android
+
 * [ADB Event Mirror](https://github.com/JakeWharton/adb-event-mirror)
 * [ADB Enhanced](https://github.com/ashishb/adb-enhanced)
 * [Radiography](https://github.com/square/radiography)
@@ -708,11 +792,15 @@ Table of Contents
 * [Gradle Doctor](https://github.com/runningcode/gradle-doctor)
 * [Scabbard](https://github.com/arunkumar9t2/scabbard)
 * [Version Checker Gradle Lint](https://github.com/PicPay/version-checker-gradle-lint)
+* [ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog)
+* [apkeep](https://github.com/EFForg/apkeep)
 
 ### React Native
+
 * [react-native-blemulator](https://github.com/Polidea/react-native-blemulator)
 
 ### Flutter
+
 * [BLEmulator Flutter](https://github.com/Polidea/blemulator_flutter)
 
 # Contributing
