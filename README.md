@@ -35,8 +35,10 @@ Table of Contents
          * [Android](#android-8)
             * [Performance](#performance)
             * [Security](#security)
+            * [UI Tests](#ui-tests)
          * [iOS](#ios-6)
             * [Security](#security-1)
+            * [UI Tests](#ui-tests)
          * [React Native](#react-native)
          * [Flutter](#flutter)
             * [UI Tests](#ui-tests)
@@ -300,6 +302,9 @@ Table of Contents
 
 * [Cyber-Sec-Resources](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security#android)
 
+#### UI Tests
+* [Maestro: Maestro is the simplest and most effective mobile UI testing framework](https://maestro.mobile.dev/)
+
 ### iOS
 
 * [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times)
@@ -317,6 +322,9 @@ Table of Contents
 
 * [Cyber-Sec-Resources](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security#ios)
 
+#### UI Tests
+* [Maestro: Maestro is the simplest and most effective mobile UI testing framework](https://maestro.mobile.dev/)
+
 ### React Native
 
 * [How to Apply UI Test Automation in React Native Apps?](https://www.polidea.com/blog/how-to-apply-ui-test-automation-in-react-native-apps/)
@@ -329,6 +337,7 @@ Table of Contents
 
 * [It’s Flutter Time—Introduction to UI Tests](https://www.polidea.com/blog/its-flutter-time-introduction-to-ui-tests/)
 * [Widget Testing With Flutter: Getting Started](https://www.raywenderlich.com/9591040-widget-testing-with-flutter-getting-started)
+* [Maestro: Maestro is the simplest and most effective mobile UI testing framework](https://maestro.mobile.dev/)
 
 ### All
 
