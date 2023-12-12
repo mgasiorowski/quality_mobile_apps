@@ -97,10 +97,10 @@ Table of Contents
             * [Android](#android-19)
             * [iOS](#ios-15)
          * [Techniques](#techniques)
-         * [e2e](#e2e)
+         * [E2E](#e2e)
             * [Android](#android-20)
             * [iOS](#ios-16)
-         * [Multiplatform](#multiplatform-3)
+            * [Multiplatform](#multiplatform-3)
          * [Helpers](#helpers)
             * [Android](#android-21)
             * [iOS](#ios-17)
@@ -641,7 +641,7 @@ Table of Contents
 * [Behaviour Driven Development (BDD)](https://www.agilealliance.org/glossary/bdd/)
 * [Acceptance Test Driven Development (ATDD)](https://www.agilealliance.org/glossary/atdd/)
 
-### e2e
+### E2E
 
 #### Android
 
@@ -670,7 +670,7 @@ Table of Contents
 * [Cucumberish](https://github.com/Ahmed-Ali/Cucumberish)
    * [Cucumberish Example Application and Tests](https://blog.novoda.com/cucumberish-bdd-testing-framework-for-ios-applications-sample-application/)
 
-### Multiplatform
+#### Multiplatform
 
 * [Calabash](http://calaba.sh/) - DEPRECATED
 * [Appium](http://appium.io/)
