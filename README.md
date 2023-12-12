@@ -670,7 +670,7 @@ Table of Contents
 * [Cucumberish](https://github.com/Ahmed-Ali/Cucumberish)
    * [Cucumberish Example Application and Tests](https://blog.novoda.com/cucumberish-bdd-testing-framework-for-ios-applications-sample-application/)
 
-### Multiplatform
+#### Multiplatform
 
 * [Calabash](http://calaba.sh/) - DEPRECATED
 * [Appium](http://appium.io/)
