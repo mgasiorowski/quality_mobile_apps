@@ -39,7 +39,6 @@ Table of Contents
             * [Security](#security-1)
          * [React Native](#react-native)
          * [Flutter](#flutter)
-            * [UI Tests](#ui-tests)
          * [All](#all)
       * [Books](#books)
       * [Security](#security-2)
@@ -675,6 +674,7 @@ Table of Contents
 * [Calabash](http://calaba.sh/) - DEPRECATED
 * [Appium](http://appium.io/)
     * [Appium Studio](https://experitest.com/appium-studio/)
+* [Maestro: Maestro is the simplest and most effective mobile UI testing framework](https://maestro.mobile.dev/)
 
 ### Helpers
 
