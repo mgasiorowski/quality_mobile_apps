@@ -455,6 +455,7 @@ Table of Contents
 * [Shake](https://www.shakebugs.com/) :moneybag:
 * [Smartlook](https://www.smartlook.com/) :moneybag:
 * [Apptim](https://www.apptim.com/) :moneybag:
+* [LogDog](https://log.dog/) :moneybag:
 
 ### Cloud Testing
 
@@ -594,6 +595,7 @@ Table of Contents
 * [Burp](https://portswigger.net/burp/)
 * [Fiddler](http://www.telerik.com/fiddler)
 * [Proxyman](https://proxyman.io/) :moneybag:
+* [LogDog](https://log.dog/) :moneybag:
 
 ### Tools
 
