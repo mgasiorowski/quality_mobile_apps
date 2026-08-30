@@ -673,6 +673,7 @@ Table of Contents
 
 #### Multiplatform
 
+* [Agent QA](https://github.com/vostride/agent-qa) - Natural-language mobile and web regression testing through CLI or MCP, with retained run memory and UI-change adaptation.
 * [Calabash](http://calaba.sh/) - DEPRECATED
 * [Appium](http://appium.io/)
     * [Appium Studio](https://experitest.com/appium-studio/)
