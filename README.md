@@ -597,6 +597,7 @@ Table of Contents
 * [Fiddler](http://www.telerik.com/fiddler)
 * [Proxyman](https://proxyman.io/) :moneybag:
 * [LogDog](https://log.dog/) :moneybag:
+* [tunnel](https://github.com/e2e-next/tunnel) - Open-source HTTPS proxy and mock server that AI coding agents drive over MCP: record a mobile app's real API calls, replay them offline, mock or break single endpoints, and check what the app sent.
 
 ### Tools
 
